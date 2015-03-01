@@ -2,6 +2,9 @@
 A very simple JS Lib to use WebWorkers for UI component.
 Very hacky and prototype now.
 
+Small Demo:
+http://philipp-grulich.de/playground/ui-webworker/
+
 The Idea:
 ![alt text](http://www.gliffy.com/go/publish/image/7372263/L.png)
 
